@@ -26,5 +26,5 @@
 
 1. Клонируй репозиторий:
 ```bash
-git clone https://github.com/твой-ник/telegram-bot-calculator.git
+git clone https://github.com/mihailrezenkov/telegram-bot-calculator
 cd telegram-bot-calculator
